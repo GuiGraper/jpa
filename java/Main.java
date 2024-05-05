@@ -21,7 +21,7 @@ class HorarioAulas {
 }
 
 enum DiaSemana {
-    SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA
+    SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA //, SABADO
 }
 
 public class Main {
